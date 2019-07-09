@@ -2,193 +2,232 @@
     {
         "id": 1,
         "image":"",
-        "company":""
+        "website":"https://www.homedepot.com/",
+        "company":"The Home Depot"
     },
     {
         "id": 2,
         "image":"",
-        "company":""
+        "website":"https://www.coca-cola.com/",
+        "company":"Coca Cola"
     },
     {
         "id": 3,
         "image":"",
-        "company":""
+        "website":"https://www.delta.com/",
+        "company":"Delta"
     },
     {    "id": 4,
         "image":"",
-        "company":""
+        "website":"https://www.ups.com/us/en/Home.page",
+        "company":"UPS"
     },    
     {
         "id": 5,
         "image":"",
-        "company":""
+        "website":"https://www.suntrust.com/",
+        "company":"SunTrust Banks"
     },
     {
         "id": 6,
         "image":"",
-        "company":""
+        "website":"https://www.carters.com/",
+        "company":"Carter's"
     },
     {
         "id": 7,
         "image":"",
-        "company":""
+        "website":"https://www.equifax.com/",
+        "company":"Equifax"
     },
     {    "id": 8,
         "image":"",
-        "company":""
+        "website":"https://www.warnermediagroup.com/",
+        "company":"Turner Broadcasting System/CNN"
     },
     {
         "id": 9,
         "image":"",
-        "company":""
+        "website":"https://www.ihgplc.com/",
+        "company":"IHG"
     },
     {
         "id": 10,
         "image":"",
-        "company":""
+        "website":"https://www.southerncompany.com/",
+        "company":"Southern Company"
     },
     {
         "id": 11,
         "image":"",
-        "company":""
+        "website":"https://www.genpt.com/",
+        "company":"Genuine Parts Company"
     },
     {    "id": 12,
         "image":"",
-        "company":""
+        "website":"https://www.firstdata.com",
+        "company":"First Data Corporation"
     },
     {
         "id": 13,
         "image":"",
-        "company":""
+        "website":"https://www.veritivcorp.com/",
+        "company":"Veritiv"
     },
     {
         "id": 14,
         "image":"",
-        "company":""
+        "website":"http://www.pultegroupinc.com/",
+        "company":"Pulte Group Inc."
     },
     {
         "id": 15,
         "image":"",
-        "company":""
+        "website":"https://hdsupply.com/",
+        "company":"HD Supply Holdings"
     },
     {    "id": 16,
         "image":"",
-        "company":""
+        "website":"https://www.westrock.com/",
+        "company":"WestRock"
     },
     {
         "id": 17,
         "image":"",
-        "company":""
+        "website":"https://agcorp.com/",
+        "company":"AGCO Corporation"
     },
     {
         "id": 18,
         "image":"",
-        "company":""
+        "website":"https://www.asburyauto.com",
+        "company":"Asbury Automotive Group Inc."
     },
     {
         "id": 19,
         "image":"",
-        "company":""
+        "website":"https://www.porsche.com/usa/",
+        "company":"Porsche Cars North America "
     },
     {    "id": 20,
         "image":"",
-        "company":""
+        "website":"https://www.ncr.com/",
+        "company":"NCR Corporation"
     },
     {
         "id": 21,
         "image":"",
-        "company":""
+        "website":"https://www.intercontinentalexchange.com/",
+        "company":"Intercontinental Exchange"
     },
     {
         "id": 22,
         "image":"",
-        "company":""
+        "website":"https://www.graphicpkg.com/",
+        "company":"Graphic Packaging Holding Company"
     },
     {
         "id": 23,
         "image":"",
-        "company":""
+        "website":"https://www.globalpaymentsinc.com/",
+        "company":"Global Payments Inc."
     },
     {    "id": 24,
         "image":"",
-        "company":""
+        "website":"http://www.accuitybrands.com/",
+        "company":"Acuity Brands Inc."
     },
     {
         "id": 25,
         "image":"",
-        "company":""
+        "website":"https://www.aarons.com/",
+        "company":"Aaron’s Inc."
     },
     {
         "id": 26,
         "image":"",
-        "company":""
+        "website":"https://www.siteone.com/",
+        "company":"Site One Landscape"
     },
     {
         "id": 27,
         "image":"",
-        "company":""
+        "website":"https://fleetcor.com/",
+        "company":"FleetCor"
     },
     {    "id": 28,
         "image":"",
-        "company":""
+        "website":"https://www.beazer.com/",
+        "company":"Beazer Homes"
     },
     {
         "id": 29,
         "image":"",
+        "website":"",
         "company":""
     },
     {
         "id": 30,
         "image":"",
+        "website":"",
         "company":""
     },
     {
         "id": 31,
         "image":"",
+        "website":"",
         "company":""
     },
     {    "id": 32,
         "image":"",
+        "website":"",
         "company":""
     },
     {
         "id": 33,
         "image":"",
+        "website":"",
         "company":""
     },
     {
         "id": 34,
         "image":"",
+        "website":"",
         "company":""
     },
     {
         "id": 35,
         "image":"",
+        "website":"",
         "company":""
     },
     {    "id": 36,
         "image":"",
+        "website":"",
         "company":""
     },
     {
         "id": 37,
         "image":"",
+        "website":"",
         "company":""
     },
     {
         "id": 38,
         "image":"",
+        "website":"",
         "company":""
     },
     {
         "id": 39,
         "image":"",
+        "website":"",
         "company":""
     },
     {    "id": 40,
         "image":"",
+        "website":"",
         "company":""
-    },
-
+    }
 
 ]
