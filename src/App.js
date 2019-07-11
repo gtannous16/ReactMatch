@@ -86,12 +86,7 @@ class App extends Component {
         >
           You clicked on this already, try again...
           </div>
-        <div
-          className="alert alert-success"
-          style={{ opacity: this.state.showSuccess }}
-        >
-          Brilliant, you haven't clicked on duplicates!
-          </div>
+
         <Scoreboard
           title="Atlanta Corporate Companies Memory Game"
           score={this.state.score}
