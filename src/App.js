@@ -88,7 +88,7 @@ class App extends Component {
           </div>
 
         <Scoreboard
-          title="Atlanta Corporate Companies Memory Game"
+          title="Atlanta Corporate Businesses Memory Game"
           score={this.state.score}
           topScore={this.state.topScore}
         />
