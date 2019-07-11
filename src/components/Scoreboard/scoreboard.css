@@ -1,0 +1,25 @@
+h5,
+h6 {
+ 
+  display: inline;
+  cursor: default;
+}
+
+h5 {
+  font-size: 2.5em;
+}
+
+.scoreB {
+  background-image: url("https://www.google.com/search?q=atlanta+skyline+background&tbm=isch&source=univ&sa=X&ved=2ahUKEwiugq7ThqjjAhUFWs0KHdctAaoQsAR6BAgFEAE&biw=906&bih=726#imgdii=XkZllzCsYlpoJM:&imgrc=hlx04g-297oLsM:");
+  margin-bottom: 10px;
+}
+
+#root {
+    background-image: url("http://media.bizj.us/view/img/3972271/skyline-of-atlanta*750xx1600-900-0-1384.jpg");
+    background-color: #dddddd;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: -30px;
+  }
